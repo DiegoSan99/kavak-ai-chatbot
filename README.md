@@ -2,6 +2,10 @@
 
 Este proyecto es un chatbot inteligente para Kavak que procesa documentos y responde preguntas sobre el inventario de autos y la propuesta de valor de la empresa.
 
+## Enlaces útiles
+
+- [Documento de diseño](https://docs.google.com/document/d/1o8E_gJuxCb-lzjaW6KoyrmJyANI31eBje7_gt21VLvM/edit?tab=t.0#heading=h.vf126j1zuuog)
+
 ## Características principales
 
 - Procesamiento de documentos CSV con información de autos
