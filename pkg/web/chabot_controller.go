@@ -24,7 +24,7 @@ func NewChatbotController(e *echo.Echo, logger *zap.SugaredLogger, chatbotServic
 
 	api := e.Group("/api/v1/chatbot")
 
-	api.POST("/", c.QueryChatbot)
+	api.POST("/chat", c.QueryChatbot)
 
 	return c
 }
